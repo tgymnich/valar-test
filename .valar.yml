@@ -1,0 +1,8 @@
+project: tim
+function: demo
+environment:
+  name: golang
+ignore:
+- .valar.yml
+- .git
+- node_modules
